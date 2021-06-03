@@ -1,0 +1,12 @@
+puts Welcome_to_the_Coffee_Survey!_Type_anything_to_start!
+defer
+puts This_is_a_test_message
+bool Did_you_like_our_Latte?
+bool Do_you_like_SurveyProgram?
+range 10 Rate_our_customer_service
+choice Which_Coffee_flavour_do_you_prefer?
+option 1 Extra_Double_Ultra_Mocha_Latte
+option 2 Super_Crazy_Max_Extra_Cream
+endchoice
+puts Thanks_for_filling_out_the_Coffee_Survey!
+endsurvey
